@@ -11,7 +11,9 @@ namespace CSharpCourse
         static void Main(string[] args)
         {
             // F12 eller ctrl-klicka: Gå till implementation
-            Control.Demo.Demo3.Run();
+            //Control.Demo.Demo3.Run();
+
+            Methods.Demo.Demo5.Run();
 
             // F9 för att sätta breakpoint
             // F5: starta med debuggning
