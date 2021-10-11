@@ -10,8 +10,6 @@ namespace CSharpCourse
 
         static void Main(string[] args)
         {
-            Fundamentals.Demo.Demo2.Run();
-
             // F9 för att sätta breakpoint
             // F5: starta med debuggning
             // Shift-F5: stoppa debuggning
