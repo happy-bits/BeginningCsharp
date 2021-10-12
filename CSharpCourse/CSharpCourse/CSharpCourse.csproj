@@ -9,4 +9,10 @@
     <PackageReference Include="happybits.ConsoleUtilities" Version="1.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Linq\Solutions\tv-data.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
