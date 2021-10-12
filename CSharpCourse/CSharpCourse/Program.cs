@@ -13,7 +13,7 @@ namespace CSharpCourse
             // F12 eller ctrl-klicka: Gå till implementation
             //Control.Demo.Demo3.Run();
 
-            Linq.Solutions.TvShows.Run();
+            Classes.Demo.Demo6.Run();
 
             // F9 för att sätta breakpoint
             // F5: starta med debuggning
