@@ -13,7 +13,7 @@ namespace CSharpCourse
             // F12 eller ctrl-klicka: Gå till implementation
             //Control.Demo.Demo3.Run();
 
-            Inheritance.Demo.Demo2.Run();
+            Exceptions.Demo.Demo2.Run();
 
             // F9 för att sätta breakpoint
             // F5: starta med debuggning
