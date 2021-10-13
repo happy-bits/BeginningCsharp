@@ -10,6 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Interfaces\Solutions\loggerchoice.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Linq\Solutions\tv-data.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
